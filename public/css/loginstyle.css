@@ -1,0 +1,15 @@
+.bg{
+    height: 100%;
+    background-color: rgb(15, 14, 14);
+}
+
+.title img{
+    width: 30%;
+    height: auto;
+    margin-top: 10%;
+    margin-bottom: 2%;
+}
+
+.container{
+    width:25%;
+}
